@@ -1,12 +1,8 @@
 def find_element_index(array, value_to_find)
-  array.each {|array| puts value_to_find }
-  while value_to_find < array.length do
-    puts array[value_to_find]
-    value_to_find += 1
-  array.index(0..1)
+array = []
+for array in value_to_find do
+  puts array
 end
-end
-
 
 def find_max_value(array)
   array.max
