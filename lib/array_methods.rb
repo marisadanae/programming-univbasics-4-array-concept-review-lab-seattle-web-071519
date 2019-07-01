@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-array_search ($value_to_find, array, bool $strict = false)
+array_search ($value_to_find, array [, bool $strict = false])
 end
 
 def find_max_value(array)
