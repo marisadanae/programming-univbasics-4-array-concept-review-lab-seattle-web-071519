@@ -1,5 +1,4 @@
 def find_element_index(array, value_to_find)
-  print find_element_index.index(0)
   value_to_find = 2
   while value_to_find < array.length do
     puts array[value_to_find]
