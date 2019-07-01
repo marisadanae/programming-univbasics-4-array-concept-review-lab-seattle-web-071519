@@ -1,4 +1,6 @@
 def find_element_index(array, value_to_find)
+  array = []
+  array.length
   array.index(0..1)
 end
 
