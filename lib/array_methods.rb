@@ -1,6 +1,9 @@
 def find_element_index(array, value_to_find)
-  array.index("value_to_find")
-  find_element_index.include?(0)
+  array = []
+  array.select {}
+  array.reject {0}
+  
+  
 
 
 end
