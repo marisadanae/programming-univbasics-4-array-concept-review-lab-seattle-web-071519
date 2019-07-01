@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   print array.index(0) 
-value_to_find.each_with_index do |array, value_to_find| 
+value_to_find.each_with_index do |array, value_to_find|
   puts "The index is #{array}"
   puts "The value is #{value_to_find}"
 end
